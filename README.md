@@ -3,7 +3,12 @@ This is complations of Linux foundations labs, tutorial, and howtos.
 
 ## Basic Linux Troubleshooting CLI
 Basic linux CLI for torubleshooting pruposes.
-[toc]
+##### Table of Contents  
+[Headers](#headers)  
+[Emphasis](#emphasis)  
+...snip...    
+<a name="headers"/>
+## Headers
 
 
 [toc]
