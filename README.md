@@ -1,6 +1,8 @@
-- [Paste Your Document In Here](#paste-your-document-in-here)
-  * [And a table of contents](#and-a-table-of-contents)
-  * [On the right](#on-the-right)
+Keep in touch with for any kind of technical questions
 
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
-Content
+Shell Scripting for Amazon Web Services to Manage it's resources
+
+https://techtutorials.github.io/shell-scripting-tutorial/
+
+Facebook
+Email List
