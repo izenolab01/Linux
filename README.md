@@ -3,8 +3,8 @@ This is complations of Linux foundations labs, tutorial, and howtos.
 
 ## Basic Linux Troubleshooting CLI
 Basic linux CLI for torubleshooting pruposes.
-1. top
-2. ncat
+1. [top](README.md)
+2. [ncat[README.md)
 ##### Table of Contents  
 [Headers](#headers)  
 [Emphasis](#emphasis)  
