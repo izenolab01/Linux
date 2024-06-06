@@ -1,5 +1,5 @@
-# Main Page Heading
-This is the intro to the main page.
+# Linux Foundations Labs, Tutorial and Howtos
+This is complations of Linux foundations labs, tutorial, and howtos.
 
 ## Section 1
 A story.
