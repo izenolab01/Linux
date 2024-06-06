@@ -1,3 +1,0 @@
-top
-syntax
-demo
